@@ -21,7 +21,7 @@
 
 * The community’s total amassed WinPower may be viewed on the daily Leaderboard available on the Zombie Defense home page
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 * VPunks have starting WinPower values according to their rarity which dictates how much WinPower they can achieve by gaming
 
@@ -29,8 +29,8 @@
 
 * VPunks earn more WinPower as they complete rounds according to the chart below:
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 * A VPunk’s gaming WinPower is determined by the following formula
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

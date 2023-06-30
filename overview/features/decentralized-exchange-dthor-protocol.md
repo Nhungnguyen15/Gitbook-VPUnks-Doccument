@@ -16,4 +16,4 @@ The DThor protocol is an open-source protocol designed to provide liquidity and 
 * Token data retrieval tool
 * Liquidity providers can vote on the swap fee of their pool.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>

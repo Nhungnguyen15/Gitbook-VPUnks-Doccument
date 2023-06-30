@@ -10,4 +10,4 @@ The VPunks community launched a Telegram chat room on July 30, 2021. The chatroo
 
 Subsequently, on August 4th, 2021, the community members created a VPunks Discord server. The Admin officially took over the discord server on August 17th, 2021, and we have continued to develop this community until now.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>

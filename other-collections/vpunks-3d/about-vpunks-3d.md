@@ -6,4 +6,4 @@ According to the development roadmap, we will launch the Metaverse in the future
 
 The original VPunks character was designed as 24x24-pixel images and has now been transformed into 3D pixel character, creating an entirely new and captivating experience.
 
-<figure><img src="https://lh4.googleusercontent.com/ehylxBq6idz8kqzMNlPUt66bozjoUOH72ITdpgMVrlfjCdagQKKNzfkDqcYbJm1vTyB5KE20qXEeAkC4BWev8A-R8wOzia8ghsO84WA-hgBmCH1e5PIZ5zZ-7n8XgDzWSKoNziOfwECb8htrNJ1GMFE" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh5.googleusercontent.com/1q9_vPZsfWWyk42RKGJGrwpG0cmCdD21Ts2f7VRuvVCtaMCJTepjr8aazmwuu76fC9FzHhoL9rUSFJiYPwuG8ji8F0OKO456hLFfJQsMDmnisgs2ZcsS4Offy89XDwLKCxL9JPlRbjFEh_d0WffJu8g" alt=""><figcaption></figcaption></figure>
