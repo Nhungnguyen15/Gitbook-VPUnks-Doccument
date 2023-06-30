@@ -10,7 +10,7 @@ As you journeyed more profound into the game, you encountered new challenges and
 
 And so, the fortress was saved from destruction, and the archer was hailed as a hero. You, too, were celebrated for your bravery and skill in battle. And as the sun set over the fortress, you knew you had played a crucial role in its defense and survival.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 
 

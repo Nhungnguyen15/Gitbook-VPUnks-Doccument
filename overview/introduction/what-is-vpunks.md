@@ -6,4 +6,4 @@ Using Vechain's blockchain, VPunks quickly sold out of its limited 10,000 NFTs w
 
 VPunks is created using the VIP-181 smart contract standard on VeChain (similar to Ethereum's ERC-721 standard). You can read more about the VIP-181 standard here: [VIP-181](https://vechaininsider.com/vechain/an-overview-of-the-vechain-improvement-proposals-vip/).
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>

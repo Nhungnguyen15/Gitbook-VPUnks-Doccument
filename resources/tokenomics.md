@@ -62,6 +62,6 @@ VPU will be accepted as currency within the VPunks marketplace. VPU may also be 
 
 VPunks continues to evolve alongside the blockchain gaming industry to offer you a diverse range of game modes, such as PVP auto-battle tournaments you can play in your browser and participate in P2E battles. This is just the beginning.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 \

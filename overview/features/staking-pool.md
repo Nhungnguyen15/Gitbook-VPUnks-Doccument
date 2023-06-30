@@ -11,7 +11,7 @@ VPunks NFT has hosted a total of four (4) staking pools since August 2021. These
 * Participants were required to stake a minimum of one thousand (1000) $VPU.
 * VPU Staking Pool 01 is live.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ### **VPunks Staking Pool 01 offering thirty percent (30%) APR**
 
@@ -21,7 +21,7 @@ VPunks NFT has hosted a total of four (4) staking pools since August 2021. These
 * The total reward pool for this staking pool was one million ($1,000,000) $VPU, which was distributed among the participants as staking rewards.
 * VPunks Staking Pool 01 has since concluded after the reward pool was depleted.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ### **VPunks Staking Pool 02 offering thirty percent (30%) APR**
 
@@ -31,7 +31,7 @@ VPunks NFT has hosted a total of four (4) staking pools since August 2021. These
 * The total reward pool for this staking pool was one million ($1,000,000) $VPU, which was distributed among the participants as staking rewards.
 * VPunks Staking Pool 02 has since concluded after the reward pool was depleted.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ### **VPunks Staking Pool 03 offering** twenty-five **percent (25%) APR**
 
@@ -41,4 +41,4 @@ VPunks NFT has hosted a total of four (4) staking pools since August 2021. These
 * The total reward pool for this staking pool was one million ($1,000,000) $VPU, which was distributed among the participants as staking rewards.
 * VPunks Staking Pool 03 is live.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>

@@ -39,5 +39,8 @@
 
 ## 👌 Other Collections
 
-* [🤺 VPunks 3D](other-collections/vpunks-3d.md)
+* [🤺 VPunks 3D](other-collections/vpunks-3d/README.md)
+  * [About VPunks 3D](other-collections/vpunks-3d/about-vpunks-3d.md)
+  * [VPunks 3D Use Case:](other-collections/vpunks-3d/vpunks-3d-use-case.md)
+  * [Interaction and Community:](other-collections/vpunks-3d/interaction-and-community.md)
 * [🗡 VPunks Weapons](other-collections/vpunks-weapons.md)
