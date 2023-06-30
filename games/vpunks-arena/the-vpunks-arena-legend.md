@@ -12,4 +12,4 @@ However, one element remained constant - the significance of understanding the i
 
 In the end, the victorious Player received the entire amount of $VPU wagered on the match. Nevertheless, there was always the next opportunity, as the VPunk Arena continued to attract players from all corners of the city, eager to test their skills and place their bets to claim the valuable $VPU rewards.
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
