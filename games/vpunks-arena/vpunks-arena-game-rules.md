@@ -6,7 +6,7 @@
 * A C-account must be linked to the player's wallet.
 * Players must have a few $VPU tokens.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ## Rules:
 
@@ -15,4 +15,4 @@
 * The player who wins 2 out of 3 rounds will be declared the final winner.
 * The winner will receive 9x% of the total tokens in the Capital Pool, and the loser will receive nothing.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>

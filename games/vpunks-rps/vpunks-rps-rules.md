@@ -6,7 +6,7 @@
 * A C-account must be linked to the player's wallet.
 * Some $VPU tokens
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ## Rule
 
@@ -21,4 +21,4 @@
 
 * When winning the game, the player will get 9x% of the total tokens in the pool (x will be announced in the game)
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
