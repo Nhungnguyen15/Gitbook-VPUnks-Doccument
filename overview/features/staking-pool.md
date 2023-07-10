@@ -1,10 +1,10 @@
 # 🏦 Staking Pool
 
-VPunks offers its community passive income opportunities through Annual Yield Percentage (APY) staking pools.&#x20;
+VPunks offers its community passive income opportunities through Annual Yield Percentage (APR) staking pools.&#x20;
 
 VPunks NFT has hosted a total of four (4) staking pools since August 2021. These staking pools include:&#x20;
 
-## VPU Staking Pool 01 offering ten percent (10%) APY
+## VPU Staking Pool 01 offering ten percent (10%) APR
 
 * VPU Staking Pool 01 was launched on August 22nd, 2021.
 * This staking pool offered an APR of ten percent (10%) and a Vemojis minting ticket (1000VPU/1 ticket). When joining this pool, your VPU will be locked for a period of 2 years.
