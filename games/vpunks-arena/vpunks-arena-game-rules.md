@@ -6,7 +6,7 @@
 * A C-account must be linked to the player's wallet.
 * Players must have a few $VPU tokens.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Rules:
 

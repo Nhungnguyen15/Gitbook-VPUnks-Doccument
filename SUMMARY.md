@@ -43,4 +43,7 @@
   * [About VPunks 3D](other-collections/vpunks-3d/about-vpunks-3d.md)
   * [VPunks 3D Use Case:](other-collections/vpunks-3d/vpunks-3d-use-case.md)
   * [Interaction and Community:](other-collections/vpunks-3d/interaction-and-community.md)
-* [🗡 VPunks Weapons](other-collections/vpunks-weapons.md)
+* [🗡 VPunks Weapons](other-collections/vpunks-weapons/README.md)
+  * [About VPunks Weapons](other-collections/vpunks-weapons/about-vpunks-weapons.md)
+  * [VPunks Weapons Use Case](other-collections/vpunks-weapons/vpunks-weapons-use-case.md)
+  * [Minting Process](other-collections/vpunks-weapons/minting-process.md)
