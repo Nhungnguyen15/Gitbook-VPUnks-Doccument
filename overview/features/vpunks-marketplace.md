@@ -13,7 +13,7 @@ VPunks Marketplace launched on July 29th, 2021.
 
 * VPunks Marketplace provides search functionality that supports sorting VPunks by attributes or by Price, ID, and Rank of VPunks so that users can easily search for VPunks.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 * Holders can view their bidding history in the "Finished Auctions" section.
 
