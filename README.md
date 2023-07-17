@@ -8,10 +8,6 @@ In this document, we will take you on a journey through the fascinating world of
 
 ## Quick links
 
-{% content-ref url="overview/introduction/" %}
-[introduction](overview/introduction/)
-{% endcontent-ref %}
-
 {% content-ref url="overview/features/" %}
 [features](overview/features/)
 {% endcontent-ref %}
@@ -30,6 +26,14 @@ In this document, we will take you on a journey through the fascinating world of
 
 {% content-ref url="games/vpunks-rps/" %}
 [vpunks-rps](games/vpunks-rps/)
+{% endcontent-ref %}
+
+{% content-ref url="other-collections/vpunks-3d/" %}
+[vpunks-3d](other-collections/vpunks-3d/)
+{% endcontent-ref %}
+
+{% content-ref url="other-collections/vpunks-weapons.md" %}
+[vpunks-weapons.md](other-collections/vpunks-weapons.md)
 {% endcontent-ref %}
 
 {% content-ref url="resources/roadmap.md" %}
