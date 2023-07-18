@@ -4,6 +4,6 @@ VPunks OG is a non-fungible token (NFT) consisting of 10,000 unique 24x24 pixel 
 
 Using Vechain's blockchain, VPunks quickly sold out of its limited 10,000 NFTs within 8 days. We integrate gaming and tokenization offering, staking, and liquidity pools with rewards in $VPU (VPunks native token) in return for supporting the ecosystem. It’s a cross between NFTs and DeFi, with gamification as the underlying business model.
 
-VPunks is created using the VIP-180 smart contract standard on VeChain (similar to Ethereum's ERC-721 standard). You can read more about the VIP-181 standard here: [VIP-181](https://vechaininsider.com/vechain/an-overview-of-the-vechain-improvement-proposals-vip/).
+VPunks is created using the VIP-181 smart contract standard on VeChain (similar to Ethereum's ERC-721 standard). You can read more about the VIP-181 standard here: [VIP-181](https://vechaininsider.com/vechain/an-overview-of-the-vechain-improvement-proposals-vip/).
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
