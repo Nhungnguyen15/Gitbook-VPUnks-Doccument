@@ -10,11 +10,11 @@ VPunks Weapons were initially minted on November 01, 2022, and are available as 
 
 Each weapon type comprises a set number of NFTs:
 
-* <img src="../../.gitbook/assets/image (45).png" alt="" data-size="line">Nunchaku: 4,000 NFTs
+* <img src="../../.gitbook/assets/image (45) (1).png" alt="" data-size="line">Nunchaku: 4,000 NFTs
 * <img src="../../.gitbook/assets/image (17).png" alt="" data-size="line">Spear: 4,000 NFTs
 * <img src="../../.gitbook/assets/image (44).png" alt="" data-size="line">Axe: 4,000 NFTs
-* <img src="../../.gitbook/assets/image (42).png" alt="" data-size="line">Cub: 4,000 NFTs
-* <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line">Sword: 4,000 NFTs
+* <img src="../../.gitbook/assets/image (42) (1).png" alt="" data-size="line">Cub: 4,000 NFTs
+* <img src="../../.gitbook/assets/image (8) (1).png" alt="" data-size="line">Sword: 4,000 NFTs
 
 &#x20;**Distribution by Level**
 

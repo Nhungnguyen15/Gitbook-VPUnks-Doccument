@@ -21,4 +21,4 @@
 
 * When winning the game, the player will get 9x% of the total tokens in the pool (x will be announced in the game)
 
-<figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

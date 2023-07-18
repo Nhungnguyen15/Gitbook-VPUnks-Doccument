@@ -7,3 +7,5 @@ In VPunks RPS, there were only three possible outcomes: win, lose, or draw. Each
 The battles were balanced and fair, leaving no room for luck or chance. It was a true test of skill and strategic thinking. Every decision mattered, and every move had consequences. Players had to observe their opponent's tendencies, try to predict their choices, and carefully consider their options. Because the loser had to surrender the entire $VPU amount that both players had wagered to the winner.
 
 The VPunks RPS battles reached their climax, leaving unforgettable experiences for both players and spectators. It showcased the power of strategy and the excitement of competition, attracting players from all corners of the VPunks community to engage in epic battles that lay ahead.
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>

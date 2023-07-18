@@ -4,4 +4,4 @@ VPunks Weapons are an integral part of the VPunks Project, specifically designed
 
 The VPunks Weapons collection consists of three levels, denoted as level 1, level 2, and level 3. Each level represents an increment in power and capabilities. These levels allow players to strategize and choose weapons that align with their gameplay style.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>

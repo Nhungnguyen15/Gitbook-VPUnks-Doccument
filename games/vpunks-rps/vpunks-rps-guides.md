@@ -40,8 +40,3 @@ Both sides' initial health is: 10
 * Win: the opponent is deducted 3 health
 * Lose: You lose 2 health
 * Draw: both sides lose 1 health
-
-\
-
-
-\
