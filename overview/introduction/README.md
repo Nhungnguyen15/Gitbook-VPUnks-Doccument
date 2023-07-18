@@ -2,7 +2,6 @@
 
 ## Video Overview
 
-Got 2 minutes? Check out a video overview of our product:
+Got 5 minutes? Check out a video overview of our product:
 
-{% embed url="https://youtu.be/U3jsjsUmq1Y" %}
-
+{% embed url="https://youtu.be/R3o3lHEoT2k" %}
